@@ -1,0 +1,21 @@
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 800;
+
+    background-color: lightyellow;
+
+    text-align: center;
+}
+
+img {
+    width: 20rem;
+}
+
+h2, h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 550;
+}
+
+ul li {
+    list-style: square;
+}
